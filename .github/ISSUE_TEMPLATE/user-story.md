@@ -10,7 +10,7 @@ assignees: ''
 ## User stories
 ---
 
-Quick links: [Summary](#summary) | [Precondition](#precondition) | [Technical details](#technical details) | [Acceptance Criteria](#acceptance criteria) | [Resources](#resources)  | [Notes](#notes)
+Quick links: [Summary](#summary) | [Precondition](#precondition) | [Technical details](#technicaldetails) | [Acceptance Criteria](#acceptancecriteria) | [Resources](#resources)  | [Notes](#notes)
 
 ---
 
@@ -41,6 +41,7 @@ A user story should typically have a summary structured this way:
 **When**
 **Then**
 
+---
 
 ### Resources:
 
@@ -48,6 +49,7 @@ A user story should typically have a summary structured this way:
 * Testing URL: [Here goes a URL to the testing branch or IP];
 * Staging URL: [Here goes a URL to the feature on staging];
 
+---
 
 ### Notes
 
