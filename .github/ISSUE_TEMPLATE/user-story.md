@@ -7,7 +7,8 @@ assignees: ''
 
 ---
 
-## User stories
+# User story
+
 ---
 
 Quick links: [Summary](#summary) | [Precondition](#precondition) | [Technical details](#technicaldetails) | [Acceptance Criteria](#acceptancecriteria) | [Resources](#resources)  | [Notes](#notes)
